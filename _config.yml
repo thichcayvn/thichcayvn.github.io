@@ -6,7 +6,7 @@ safe: false
 
 
 ### site serving configuration ###
-exclude: 
+exclude: [CNAME, LICENSE.md, .gitignore]
 permalink: / ## disables post output
 timezone: null
 lsi: false
