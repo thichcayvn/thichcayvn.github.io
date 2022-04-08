@@ -1,8 +1,8 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Powered by Thich Am Thuc LLC. [thichcay.com](http://www.thichcay.com/)
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+[Thich Cay Products](https://github.com/thichcayvn/thichcayvn.github.io)
 &mdash;
 this site is [open source]({{ site.source_link }})
 
