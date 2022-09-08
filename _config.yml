@@ -1,15 +1,15 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
-timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+title: "Thich Cay Official"
+email: support@thichcay.com
+timezone: +07
+baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
 disqus: 'demowebsite'
-locale: en_us
-lang: en_us
+locale: vi_vn
+lang: vi_vn
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
@@ -43,9 +43,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/thichcayvn/
+  facebook: https://www.facebook.com/thichcay.vn/
+  twitter: https://twitter.com/thichcayvn
 
 # Plugins
 plugins: 
@@ -54,3 +54,4 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+- jekyll-menus
