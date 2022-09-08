@@ -1,16 +1,51 @@
 ---
 layout: post
-title:  "Red Riding Hood"
+title:  "Mực xào sả ớt"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+37589 lượt xem
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
+![Mực xào sả ớt](https://monngonmoingay.com/wp-content/uploads/2021/11/muc-xao-sa-ot-880.jpg)
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+-    ![cook](https://monngonmoingay.com/wp-content/themes/monngonmoingaytrungthu/images/icon-cook.png)
+    
+    Dễ
+-   4 người
+    
+    Khẩu phần
+-   Yêu thích
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+ĐƯỢC PHÁT SÓNG TRÊN
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+[![logo đài](https://monngonmoingay.com/wp-content/uploads/2022/04/logo-tv-copy.png)](https://monngonmoingay.com/lich-phat-song "lịch phát sóng")
+
+Mực giòn ngọt vừa chín tới, thơm lừng mùi bột cà ri. Sả chiên vàng giòn pha lẫn khi ăn khiến món ăn càng thêm thú vị. Mực xào sả ớt rất phù hợp cho cả nhà nhâm nhi trong những ngày trời mưa mưa thế này.
+
+####   ![nguyên liệu](https://monngonmoingay.com/wp-content/themes/monngonmoingaytrungthu/images/icon-nguyenlieu.png)NGUYÊN LIỆU
+
+_M: muỗng canh - m: muỗng cafe_
+
+-   Mực ống làm sạch: 500g
+-   Sả non bào mỏng xéo: 5 cây
+-   Hành lá: 3 cây
+-   Ớt hiểm, tỏi băm
+-   ĂN KÈM: Cơm trắng
+-   Gia vị: Muối, đường, dầu ăn, bột cà ri
+-   [Bột ngọt  ![Bột ngọt AJI-NO-MOTO®](https://monngonmoingay.com/wp-content/uploads/2015/08/Anh.png)](https://monngonmoingay.com/bot-ngot-ajinomoto/ "Bột ngọt AJI-NO-MOTO®")  
+
+####   ![nguyên liệu](https://monngonmoingay.com/wp-content/themes/monngonmoingaytrungthu/images/icon-soche.png)SƠ CHẾ
+
+-   Hành lá cắt khúc 2-3cm. Ớt hiểm đập dập.
+-   Mực cắt khoanh ướp với 1/2m muối, 1/2m bột ngọt AJI-NO-MOTO®, 1m đường, 3 trái ớt hiểm đập dập, 1/2m bột cà ri, 1m tỏi băm.
+
+####   ![nguyên liệu](https://monngonmoingay.com/wp-content/themes/monngonmoingaytrungthu/images/icon-thuchien.png)THỰC HIỆN
+
+-   Chiên sả bào cho vàng thơm với nhiều dầu, vớt ra. Tiếp tục dùng 1M dầu vừa chiên sả, phi thơm 1M tỏi băm còn lại, trút mực đã ướp vào xào chín với lửa to, mực gần chín cho hành lá vào xóc đều. Tắt lửa. Cho mực ra dĩa, rắc sả chiên lên trên.
+
+####   ![nguyên liệu](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)MÁCH NHỎ
+
+-   Chọn mực ống tươi: mực xanh trong, còn da.
+-   Chiên vàng sả bào với dầu giúp sả thơm và hấp dẫn hơn sử dụng sả băm.
+-   **Sử dụng mực tươi sẽ để nguyên da, mực sẽ có độ giòn, ăn ngon hơn**

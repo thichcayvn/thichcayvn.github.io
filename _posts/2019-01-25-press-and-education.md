@@ -1,20 +1,52 @@
 ---
 layout: post
-title:  "Press and education"
+title:  "Thịt rang sả"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/7.jpg
 ---
-Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
+227 lượt xem
 
-Education must also train one for quick, **resolute and effective thinking**. To think incisively and to think for one's self is very difficult. 
+![Thịt rang sả](https://monngonmoingay.com/wp-content/uploads/2022/09/thit-rang-sa.jpg)
 
-> We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. 
+-    ![cook](https://monngonmoingay.com/wp-content/themes/monngonmoingaytrungthu/images/icon-cook.png)
+    
+    Dễ
+-   4 người
+    
+    Khẩu phần
+-   Yêu thích
 
+ĐƯỢC PHÁT SÓNG TRÊN
 
-The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.
+[![logo đài](https://monngonmoingay.com/wp-content/uploads/2022/04/logo-tv-copy.png)](https://monngonmoingay.com/lich-phat-song "lịch phát sóng")
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+Thịt rang sả với cách nấu làm sao cho thịt chín sém, mỡ trong, thơm mùi sả, vị đậm đà hài hòa thơm ngon. Ăn cùng với chút sả vàng giòn là hao cơm phải biết! [Món ngon cuối tuần](https://monngonmoingay.com/mon-ngon-cuoi-tuan/ "Món ngon cuối tuần") phải thử ngay nha mẹ!
 
-We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
+####   ![nguyên liệu](https://monngonmoingay.com/wp-content/themes/monngonmoingaytrungthu/images/icon-nguyenlieu.png)NGUYÊN LIỆU
 
+_M: muỗng canh - m: muỗng cafe_
+
+####   ![nguyên liệu](https://monngonmoingay.com/wp-content/themes/monngonmoingaytrungthu/images/icon-soche.png)SƠ CHẾ
+
+– [Thịt ba chỉ](https://monngonmoingay.com/mon-ngon-tu-thit-heo/ "món ngon từ thịt heo") chần trong nước có gừng, hành tím và 1M Giấm gạo lên men của Công ty Ajinomoto Việt Nam. Vớt ra ngâm nước lạnh, rồi cắt lát mỏng, ướp 1m Hạt nêm Aji-ngon® Heo, 1/2m Bột ngọt AJI-NO-MOTO®, 1m Giấm gạo lên men Ajinomoto, 1/2m đường .
+
+– Sả đập dập, xé sợi. Ớt cắt lát mỏng. Ngò gai cắt nhỏ.
+
+####   ![nguyên liệu](https://monngonmoingay.com/wp-content/themes/monngonmoingaytrungthu/images/icon-thuchien.png)THỰC HIỆN
+
+– Đun nóng 1m dầu ăn, cho tỏi và sả vào rang thơm vừa, cho thịt vào rang cho tươm mỡ và hơi sém, thêm ớt vào đảo đều, nêm 1/2M giấm gạo lên men, 1/2M nước mắm vào đảo đều cho xém, thơm, rồi tắt lửa.
+
+####   ![nguyên liệu](https://monngonmoingay.com/wp-content/themes/monngonmoingaytrungthu/images/icon-cachdung.png)CÁCH DÙNG
+
+– Cho thịt ram sả ra dĩa, rắc ngò gai lên trên, dùng nóng với cơm. Chấm nướng tương Phú Sĩ và ớt cắt lát.
+
+_\*Món ăn đi kèm: [Canh chả tôm chùm ngây](https://monngonmoingay.com/canh-cha-tom-chum-ngay/ "Canh chả tôm chùm ngây")_
+
+####   ![nguyên liệu](https://monngonmoingay.com/wp-content/themes/monngonmoingaytrungthu/images/icon-machnho.png)MÁCH NHỎ
+
+– Phi thơm sả tỏi trước để tiết ra hết tinh dầu, thịt sẽ thơm hơn.
+
+– Ướp đường với thịt để lúc rang thịt có màu vàng nâu hấp dẫn.
+
+– Thêm một giấm vào sau cùng khi rang giúp thịt có vị chua nhẹ, cân bằng [món ăn](https://monngonmoingay.com/ "món ăn") hài hòa hơn
