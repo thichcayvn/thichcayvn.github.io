@@ -4,6 +4,7 @@ title:  "Cách xây dựng bữa ăn hợp lý, đủ dưỡng chất cho mỗi 
 author: jane
 categories: [ Jekyll, tutorial ]
 image: assets/images/11.jpg
+tags: [sticky]
 ---
 
 #### Thế nào là bữa ăn hợp lý?
