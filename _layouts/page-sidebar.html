@@ -12,7 +12,7 @@ layout: default
         {{ content }}
         <!-- Comments -->
         {% if page.comments == true %}
-        {% exclude comments.html %}
+        {% include comments.html %}
         {% endif %}
     </div>
     </div>
