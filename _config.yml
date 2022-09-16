@@ -1,8 +1,8 @@
 # Site
-name: 'Thich Cay Official'
-description: 'Thich Cay Official is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Thich Cay Magazine'
+description: 'Nấu ăn & Gia vị.'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: '/favicon.ico'
 baseurl: '/'
 disqus: 'demowebsite'
 email: 'support@thichcay.com'
