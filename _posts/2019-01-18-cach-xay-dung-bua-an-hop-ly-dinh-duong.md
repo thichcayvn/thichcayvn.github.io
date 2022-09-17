@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Cách xây dựng bữa ăn hợp lý, đủ dưỡng chất cho mỗi người"
+title: Cách xây dựng bữa ăn hợp lý, đủ dưỡng chất cho mỗi người
 author: jane
-categories: [ Jekyll, tutorial ]
+categories: []
 image: assets/images/11.jpg
-tags: [sticky]
----
+tags: []
 
+---
 #### Thế nào là bữa ăn hợp lý?
 Bữa ăn hợp lý là bữa ăn không chỉ đảm bảo an toàn vệ sinh thực phẩm, phù hợp với điều kiện kinh tế mà còn phải đảm bảo cân đối đủ 4 nhóm chất dinh dưỡng:
 
@@ -58,4 +58,3 @@ Nguyên tắc cuối cùng mà bạn không được quên để xây dựng b�
 Bạn cần phối hợp nhiều loại thực phẩm với nhau để xây dựng thực đơn ăn uống hợp lý.  
 
 Hy vọng những chia sẻ vừa rồi sẽ giúp bạn tìm được đáp án câu trả lời cho câu hỏi, thế nào là bữa ăn hợp lý. Một bữa ăn giàu dinh dưỡng với sự kết hợp đa dạng các loại thực phẩm sẽ giúp cơ thể cải thiện chế độ giàu dinh dưỡng và nâng cao sức khỏe. Hãy cân nhắc và áp dụng những kiến thức dinh dưỡng khoa học và bổ ích này để xây dựng một chế độ ăn uống cân bằng và lành mạnh cho cơ thể của mình bạn nhé.
-
