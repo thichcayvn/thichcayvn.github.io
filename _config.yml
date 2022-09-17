@@ -4,7 +4,6 @@ description: 'Nấu ăn & Gia vị.'
 logo: 'assets/images/logo.png'
 favicon: '/favicon.ico'
 baseurl: '/'
-disqus: 'demowebsite'
 email: 'support@thichcay.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
@@ -17,7 +16,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-menus
   
 authors:
     Thao:
