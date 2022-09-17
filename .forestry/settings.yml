@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: 
-webhook_url: "https://app.forestry.io/git/github/hook"
+webhook_url: https://app.forestry.io/git/github/hook
 sections:
 - type: jekyll-pages
   label: Pages
@@ -10,7 +10,7 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: /assets/images
+upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
 use_front_matter_path: false
