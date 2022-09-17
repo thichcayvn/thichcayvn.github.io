@@ -10,8 +10,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: /assets/images
+public_path: "/assets/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
@@ -21,7 +21,7 @@ build:
   preview_output_directory: _site
   install_dependencies_command: bundle install --path vendor/bundle
   preview_docker_image: forestryio/ruby:2.6
-  mount_path: "/srv"
-  working_dir: "/srv"
+  mount_path: "/"
+  working_dir: "/"
   instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
     -d _site
