@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cảm ơn – Thích Cay</title>
+
+  <style>
+    :root {
+      --brand-red: #e53935;
+      --brand-red-dark: #c62828;
+      --bg-light: #ffffff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+      background: radial-gradient(circle at top, #ff7961 0, #b71c1c 55%, #7f0000 100%);
+      color: #fff;
+    }
+
+    .page {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+
+    .card {
+      width: 100%;
+      max-width: 720px;
+      background: #ffffff;
+      border-radius: 22px;
+      padding: 34px 26px 28px;
+      text-align: center;
+      box-shadow: 0 18px 50px rgba(0,0,0,0.45);
+      color: #222;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .card::before {
+      content: "";
+      position: absolute;
+      top: -60px;
+      right: -60px;
+      width: 160px;
+      height: 160px;
+      background: rgba(229, 57, 53, 0.12);
+      border-radius: 50%;
+      z-index: 0;
+    }
+
+    .content {
+      position: relative;
+      z-index: 1;
+    }
+
+    .logo {
+      margin-bottom: 20px;
+    }
+
+    .logo img {
+      max-height: 64px;
+      width: auto;
+    }
+
+    h1 {
+      margin: 0 0 6px;
+      font-size: 34px;
+      font-weight: 800;
+      letter-spacing: 0.8px;
+      color: #b71c1c;
+    }
+
+    .check {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 58px;
+      height: 58px;
+      border-radius: 50%;
+      margin: 14px 0 12px;
+      background: rgba(229,57,53,0.1);
+      color: var(--brand-red);
+      font-size: 30px;
+      font-weight: 700;
+    }
+
+    .subtitle {
+      font-size: 15px;
+      margin: 3px 0;
+    }
+
+    .subtitle strong {
+      color: var(--brand-red-dark);
+    }
+
+    .cta-wrap {
+      margin-top: 20px;
+      margin-bottom: 10px;
+    }
+
+    .btn-primary {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 12px 26px;
+      border-radius: 999px;
+      background: var(--brand-red);
+      color: #fff;
+      font-weight: 700;
+      font-size: 14px;
+      text-decoration: none;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      box-shadow: 0 12px 28px rgba(229,57,53,0.45);
+      transition: transform 0.12s ease, box-shadow 0.12s ease, background 0.12s ease;
+    }
+
+    .btn-primary span.icon {
+      font-size: 18px;
+    }
+
+    .btn-primary:hover {
+      background: var(--brand-red-dark);
+      transform: translateY(-1px);
+      box-shadow: 0 16px 34px rgba(198,40,40,0.5);
+    }
+
+    .note {
+      font-size: 13px;
+      color: #777;
+      margin-top: 6px;
+    }
+
+    .footer-text {
+      margin-top: 18px;
+      font-size: 13px;
+      color: #555;
+    }
+
+    .footer-text span {
+      color: var(--brand-red-dark);
+      font-weight: 600;
+    }
+
+    @media (max-width: 480px) {
+      .card {
+        padding: 28px 18px 22px;
+      }
+
+      h1 {
+        font-size: 28px;
+      }
+
+      .btn-primary {
+        width: 100%;
+      }
+    }
+  </style>
+
+  <script>
+    // ĐỔI LINK ZALO CỘNG ĐỒNG CỦA BẠN Ở ĐÂY
+    const zaloLink = "https://zalo.me/g/eealnm839";
+
+    window.addEventListener("load", function () {
+      setTimeout(function () {
+        window.location.href = zaloLink;
+      }, 5000);
+    });
+  </script>
+</head>
+<body>
+
+<div class="page">
+  <div class="card">
+    <div class="content">
+      <div class="logo">
+        <img src="https://docs.thichcay.com/logo.png" alt="Thích Cay">
+      </div>
+
+      <h1>CẢM ƠN BẠN ĐÃ ĐĂNG KÝ!</h1>
+      <div class="check">✔</div>
+
+      <p class="subtitle">
+        Mã ưu đãi & tin mới nhất từ <strong>Thích Cay</strong> đã được gửi về email của bạn.
+      </p>
+      <p class="subtitle">
+        Tham gia cộng đồng Zalo để nhận công thức, tip ăn cay và ưu đãi nội bộ sớm nhất.
+      </p>
+
+      <div class="cta-wrap">
+        <a class="btn-primary" href="https://zalo.me/g/eealnm839">
+          <span class="icon">🔥</span>
+          <span>Tham gia cộng đồng Zalo</span>
+        </a>
+        <div class="note">
+          Bạn sẽ được chuyển tự động tới nhóm Zalo sau 5 giây.
+        </div>
+      </div>
+
+      <div class="footer-text">
+        Nếu chưa được chuyển, hãy nhấn nút trên để vào ngay <span>cộng đồng Thích Cay</span>.
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
